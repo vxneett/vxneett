@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I'm Sorry</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(120deg, #fbc2eb, #a6c1ee);
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #e91e63;
+            font-size: 2.5rem;
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 10px 0;
+            line-height: 1.6;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #e91e63;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .button:hover {
+            background: #c2185b;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>I'm Sorry</h1>
+        <p>Dear SHIVANGI❤️,</p>
+        <p>
+            I am truly sorry for my actions and the hurt they may have caused you. It pains me to think about how I let you down and affected the trust and happiness we share. 
+            I deeply regret what I did, and there isn’t a moment that passes without wishing I could undo it. You mean so much to me, and the thought of losing our beautiful bond because of my mistakes is unbearable. 
+            Please know that my intentions were never to hurt you, and I am committed to making things right. You are not just my best friend—you are someone who brings so much joy, comfort, and meaning to my life. 
+            I hope you can find it in your heart to forgive me and give me a chance to prove how much you and our friendship mean to me.
+        </p>
+        <a href="#" class="button">Let's Talk</a>
+    </div>
+    <footer>
+        Made with ❤️ by Vineet
+    </footer>
+</body>
+</html>
